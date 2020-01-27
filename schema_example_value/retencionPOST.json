@@ -1,0 +1,47 @@
+{
+    "campoAdicional": [
+        {
+            "nombre": "string",
+            "value": "string"
+        }
+    ],
+    "id": "string",
+    "impuesto": [
+        {
+            "baseImponible": 0,
+            "codDocSustento": "string",
+            "codigo": "string",
+            "codigoPorcentaje": "string",
+            "codigoRetencion": "string",
+            "fechaEmisionDocSustento": "string",
+            "numDocSustento": "string",
+            "porcentajeRetener": 0,
+            "tarifa": 0,
+            "valor": 0,
+            "valorRetenido": 0
+        }
+    ],
+    "infoRetencion": {
+        "contribuyenteEspecial": "string",
+        "dirEstablecimiento": "string",
+        "fechaEmision": "string",
+        "identificacionSujetoRetenido": "string",
+        "obligadoContabilidad": "string",
+        "periodoFiscal": "string",
+        "razonSocialSujetoRetenido": "string",
+        "tipoIdentificacionSujetoRetenido": "string"
+    },
+    "infoTributaria": {
+        "ambiente": "string",
+        "codDoc": "string",
+        "dirMatriz": "string",
+        "estab": "string",
+        "nombreComercial": "string",
+        "ptoEmi": "string",
+        "razonSocial": "string",
+        "ruc": "string",
+        "secuencial": "string",
+        "tipoEmision": "string"
+    },
+    "version": "string"
+}

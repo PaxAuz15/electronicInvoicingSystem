@@ -1,0 +1,63 @@
+{
+    "campoAdicional": [
+        {
+            "nombre": "string",
+            "value": "string"
+        }
+    ],
+    "destinatario": [
+        {
+            "codSustento": "string",
+            "codEstabDestino": "string",
+            "detalle": [
+                {
+                    "cantidad": 0,
+                    "codigoAdicional": "string",
+                    "codigoInterno": "string",
+                    "descripcion": "string",
+                    "detAdicional": [
+                        {
+                            "nombre": "string",
+                            "valor": "string"
+                        }
+                    ]
+                }
+            ],
+            "dirDestinatario": "string",
+            "docAduaneroUnico": "string",
+            "identificacionDestinatario": "string",
+            "motivoTraslado": "string",
+            "numAutDocSustento": "string",
+            "numDocSustento": "string",
+            "razonSocialDestinatario": "string",
+            "ruta": "string"
+        }
+    ],
+    "id": "string",
+    "infoGuiaRemisionDTO": {
+        "contribuyenteEspecial": "string",
+        "dirEstablecimiento": "string",
+        "dirPartida": "string",
+        "fechaFinTransporte": "string",
+        "fechaIniTransporte": "string",
+        "obligadoContabilidad": "string",
+        "placa": "string",
+        "razonSocialTransportista": "string",
+        "rise": "string",
+        "rucTransportista": "string",
+        "tipoIdentificacionTransportista": "string"
+    },
+    "infoTributaria": {
+        "ambiente": "string",
+        "codDoc": "string",
+        "dirMatriz": "string",
+        "estab": "string",
+        "nombreComercial": "string",
+        "ptoEmi": "string",
+        "razonSocial": "string",
+        "ruc": "string",
+        "secuencial": "string",
+        "tipoEmision": "string"
+    },
+    "version": "string"
+}

@@ -1,0 +1,66 @@
+{
+    "campoAdicional": [
+        {
+            "nombre": "string",
+            "value": "string"
+        }
+    ],
+    "id": "string",
+    "infoNotaDebito": {
+        "codDocModificado": "string",
+        "contribuyenteEspecial": "string",
+        "dirEstablecimiento": "string",
+        "fechaEmision": "string",
+        "fechaEmisionDocSustento": "string",
+        "identificacionComprador": "string",
+        "impuesto": [
+            {
+                "baseImponible": 0,
+                "codDocSustento": "string",
+                "codigo": "string",
+                "codigoPorcentaje": "string",
+                "codigoRetencion": "string",
+                "fechaEmisionDocSustento": "string",
+                "numDocSustento": "string",
+                "porcentajeRetener": 0,
+                "tarifa": 0,
+                "valor": 0,
+                "valorRetenido": 0
+            }
+        ],
+        "numDocModificado": "string",
+        "obligadoContabilidad": "string",
+        "pagos": [
+            {
+                "formaPago": "string",
+                "plazo": "string",
+                "total": 0,
+                "unidadTiempo": "string"
+            }
+        ],
+        "razonSocialComprador": "string",
+        "rise": "string",
+        "tipoIdentificacionComprador": "string",
+        "totalSinImpuestos": 0,
+        "valorTotal": 0
+    },
+    "infoTributaria": {
+        "ambiente": "string",
+        "codDoc": "string",
+        "dirMatriz": "string",
+        "estab": "string",
+        "nombreComercial": "string",
+        "ptoEmi": "string",
+        "razonSocial": "string",
+        "ruc": "string",
+        "secuencial": "string",
+        "tipoEmision": "string"
+    },
+    "motivo": [
+        {
+            "razon": "string",
+            "valor": 0
+        }
+    ],
+    "version": "string"
+}

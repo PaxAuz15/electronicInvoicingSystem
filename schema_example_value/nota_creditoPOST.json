@@ -1,0 +1,81 @@
+{
+    "campoAdicional": [
+        {
+            "nombre": "string",
+            "value": "string"
+        }
+    ],
+    "detalle": [
+        {
+            "cantidad": 0,
+            "codigoAdicional": "string",
+            "codigoInterno": "string",
+            "descripcion": "string",
+            "descuento": 0,
+            "detAdicional": [
+                {
+                    "nombre": "string",
+                    "valor": "string"
+                }
+            ],
+            "impuesto": [
+                {
+                    "baseImponible": 0,
+                    "codDocSustento": "string",
+                    "codigo": "string",
+                    "codigoPorcentaje": "string",
+                    "codigoRetencion": "string",
+                    "fechaEmisionDocSustento": "string",
+                    "numDocSustento": "string",
+                    "porcentajeRetener": 0,
+                    "tarifa": 0,
+                    "valor": 0,
+                    "valorRetenido": 0
+                }
+            ],
+            "precioTotalSinImpuesto": 0,
+            "precioUnitario": 0
+        }
+    ],
+    "id": "string",
+    "infoNotaCredito": {
+        "codDocModificado": "string",
+        "contribuyenteEspecial": "string",
+        "dirEstablecimiento": "string",
+        "fechaEmision": "string",
+        "fechaEmisionDocSustento": "string",
+        "identificacionComprador": "string",
+        "moneda": "string",
+        "motivo": "string",
+        "numDocModificado": "string",
+        "obligadoContabilidad": "string",
+        "razonSocialComprador": "string",
+        "rise": "string",
+        "tipoIdentificacionComprador": "string",
+        "totalImpuesto": [
+            {
+                "baseImponible": 0,
+                "codigo": "string",
+                "codigoPorcentaje": "string",
+                "descuentoAdicional": 0,
+                "tarifa": 0,
+                "valor": 0
+            }
+        ],
+        "totalSinImpuestos": 0,
+        "valorModificacion": 0
+    },
+    "infoTributaria": {
+        "ambiente": "string",
+        "codDoc": "string",
+        "dirMatriz": "string",
+        "estab": "string",
+        "nombreComercial": "string",
+        "ptoEmi": "string",
+        "razonSocial": "string",
+        "ruc": "string",
+        "secuencial": "string",
+        "tipoEmision": "string"
+    },
+    "version": "string"
+}
